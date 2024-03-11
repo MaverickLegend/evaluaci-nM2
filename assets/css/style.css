@@ -13,6 +13,7 @@ body{
     overflow: hidden;
 }
 
-.icons i{
-    height: 10rem;
+footer a{
+    text-decoration: none;
+    color: white;
 }
