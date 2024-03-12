@@ -18,3 +18,11 @@ body{
     height: 2rem;
     width: auto; 
 }
+
+/* Media queries */
+
+@media (max-width: 767px) {
+    .card {
+        margin-bottom: 3rem;        
+    }
+}
